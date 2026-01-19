@@ -28,7 +28,8 @@ It would output;
 Hello, World!
 Hello, World!
 Hello, World!2
-```; as it takes a and . literally.
+```
+; as it takes a and . literally.
 If you MUST use comments. use '4' for 'a' (as in abcd -> 4bcd) and try not to use periods/ full stops, use commas instead for the same purpose.
 This is just if you want to (not enforced by the compiler)
 
@@ -44,7 +45,8 @@ If you made successful code and run the compiled file; you should see your respe
 
 For Hello World;
 ```
-a```
+a
+```
 
 For adding 1+1 and printing it;
 ```
