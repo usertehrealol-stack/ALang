@@ -36,8 +36,8 @@ This is just if you want to (not enforced by the compiler)
 # What should I do to use it?
 Download and compile compiler.c in the same folder you will use the main.a file in, using gcc compiler.c -o compiled (or your own
 compiler). Then make the main.a file; put some code in it and run ./compiled if you're on Linux/ MacOS (for Windows, run the exec. made 
-by the compiler) in the same folder you put main.a and compiler.c in. MAKE SURE MAIN.A EXISTS (using A version 1.0); COMPILER.C DOES NOT CHECK IF MAIN.A 
-EXISTS, IF IT DOES NOT EXIST, IT WILL SEGFAULT!
+by the compiler) in the same folder you put main.a and compiler.c in. MAKE SURE MAIN.A EXISTS (using A version 1.0); ~~COMPILER.C DOES NOT CHECK IF MAIN.A 
+EXISTS, IF IT DOES NOT EXIST, IT WILL SEGFAULT!~~ it does check now :D
 
 If you made successful code and run the compiled file; you should see your respective output; you made your first A program!
 
