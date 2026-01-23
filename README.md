@@ -1,5 +1,5 @@
 # Version
-Version 1.0
+Version 1.1
 
 # What is A?
 A is an esoteric programming language. It is not useful but it does prove itself as a programming language.
